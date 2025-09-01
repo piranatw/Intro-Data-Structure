@@ -1,4 +1,4 @@
-#This repository contains notes, examples, and exercises for an Introduction to Data Structures lesson.
+# This repository contains notes, examples, and exercises for an Introduction to Data Structures lesson.
 It covers fundamental concepts such as:
 Arrays & Strings
 Linked Lists
